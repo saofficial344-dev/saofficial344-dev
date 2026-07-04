@@ -1,17 +1,9 @@
-<!-- GITHUB PROFILE README -->
-
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,40:0f172a,75:1e3a8a,100:d97706&text=Shoaib%20Akhter&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20JavaScript%20Developer%20%7C%20MERN%20%2B%20Next.js%20%7C%20Scalable%20Web%20Applications&descSize=16&descAlignY=58"
-    alt="Shoaib Akhter GitHub Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,40:0f172a,75:1e3a8a,100:d97706&text=Shoaib%20Akhter&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20JavaScript%20Developer%20%7C%20MERN%20%2B%20Next.js%20%7C%20Scalable%20Web%20Applications&descSize=16&descAlignY=58" alt="Shoaib Akhter GitHub Banner" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&vCenter=true&width=920&height=60&color=D97706&lines=Building+Modern+Full+Stack+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Clean+Frontend+%2B+Scalable+Backend+Architecture;Dashboards+%7C+Authentication+%7C+Business+Web+Apps"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&vCenter=true&width=920&height=60&color=D97706&lines=Building+Modern+Full+Stack+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Clean+Frontend+%2B+Scalable+Backend+Architecture;Dashboards+%7C+Authentication+%7C+Business+Web+Apps" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -21,7 +13,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Freelance%20Projects-d97706?style=for-the-badge&logo=upwork&logoColor=020617" alt="Freelance Available" />
 </p>
 
-<br />
+---
 
 <table>
   <tr>
@@ -37,7 +29,7 @@
         business applications.
       </p>
       <p>
-        My goal is simple: build web applications that look professional,
+        My goal is simple: build applications that look professional,
         work smoothly, and solve real business problems.
       </p>
     </td>
@@ -88,7 +80,7 @@
     <td width="50%" valign="top">
       <h3>🔐 Authentication & Security</h3>
       <p>
-        JWT auth, protected routes, OTP verification, forgot password,
+        JWT authentication, protected routes, OTP verification, forgot password,
         reset password, secure forms, and user account flows.
       </p>
     </td>
@@ -132,7 +124,6 @@
         A full-stack booking system for managing events, users,
         approvals, seat tracking, and admin operations.
       </p>
-      <p><strong>Highlights:</strong></p>
       <ul>
         <li>JWT Authentication</li>
         <li>OTP Email Verification</li>
@@ -148,7 +139,6 @@
         A restaurant management system for orders, billing,
         inventory, staff roles, and sales reporting.
       </p>
-      <p><strong>Highlights:</strong></p>
       <ul>
         <li>Order Management</li>
         <li>Billing System</li>
@@ -163,10 +153,9 @@
     <td width="50%" valign="top">
       <h3>🔐 MERN Authentication System</h3>
       <p>
-        A secure authentication system with email verification,
-        OTP login flow, password reset, and protected routes.
+        Secure authentication system with email verification,
+        OTP login, password reset, and protected routes.
       </p>
-      <p><strong>Highlights:</strong></p>
       <ul>
         <li>Email Verification</li>
         <li>OTP Authentication</li>
@@ -179,10 +168,9 @@
     <td width="50%" valign="top">
       <h3>📈 Admin Dashboard UI</h3>
       <p>
-        A modern dashboard UI focused on data presentation,
+        Modern dashboard UI focused on clean data presentation,
         reusable components, cards, tables, and responsive layouts.
       </p>
-      <p><strong>Highlights:</strong></p>
       <ul>
         <li>Analytics Cards</li>
         <li>Responsive Layout</li>
@@ -197,35 +185,46 @@
 
 ---
 
+## 📌 Current Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Building</h3>
+      <ul>
+        <li>SaaS POS & ERP systems</li>
+        <li>Authentication systems</li>
+        <li>Admin dashboards</li>
+        <li>Business web applications</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Learning</h3>
+      <ul>
+        <li>NestJS architecture</li>
+        <li>Prisma + PostgreSQL</li>
+        <li>Clean backend architecture</li>
+        <li>Production-ready SaaS development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saofficial344-dev&theme=github_dark"
-    alt="GitHub Profile Summary"
-  />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saofficial344-dev&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=saofficial344-dev&show_icons=true&theme=github_dark&hide_border=true&title_color=d97706&icon_color=d97706&text_color=e5e7eb&bg_color=020617"
-    alt="GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saofficial344-dev&layout=compact&theme=github_dark&hide_border=true&title_color=d97706&text_color=e5e7eb&bg_color=020617"
-    alt="Top Languages"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saofficial344-dev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_radius=12&title_color=d97706&icon_color=d97706&text_color=e5e7eb&bg_color=020617&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saofficial344-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=12&title_color=d97706&text_color=e5e7eb&bg_color=020617&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=saofficial344-dev&theme=dark&hide_border=true&border_radius=16&background=020617&ring=D97706&fire=D97706&currStreakLabel=D97706&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=9CA3AF"
-    alt="GitHub Streak"
-  />
+  <img width="70%" src="https://streak-stats.demolab.com?user=saofficial344-dev&theme=dark&hide_border=true&border_radius=16&background=020617&ring=D97706&fire=D97706&currStreakLabel=D97706&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=9CA3AF" alt="GitHub Streak" />
 </p>
 
 ---
@@ -233,22 +232,24 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saofficial344-dev&bg_color=020617&color=e5e7eb&line=d97706&point=1e3a8a&area=true&area_color=d97706&hide_border=true&radius=16"
-    alt="Contribution Graph"
-  />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saofficial344-dev&bg_color=020617&color=e5e7eb&line=d97706&point=1e3a8a&area=true&hide_border=true&radius=16" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🏅 GitHub Achievements
+## 🏅 GitHub Highlights
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=saofficial344-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
-    alt="GitHub Trophies"
-  />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saofficial344-dev&theme=github_dark" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saofficial344-dev&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saofficial344-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -264,7 +265,6 @@
     <img src="https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=020617" alt="Email" />
   </a>
 
-  <!-- Replace this with your real LinkedIn URL -->
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -277,8 +277,5 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:d97706,45:1e3a8a,100:020617"
-    alt="Footer Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:d97706,45:1e3a8a,100:020617" alt="Footer Banner" />
 </p>
