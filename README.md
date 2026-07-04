@@ -1,15 +1,15 @@
-<!-- TOP LEVEL PREMIUM GITHUB PROFILE README -->
+<!-- GITHUB PROFILE README -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:020617,35:0f172a,70:1e3a8a,100:d97706&text=Shoaib%20Akhter&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20MERN%20Developer%20%7C%20Premium%20Web%20Applications%20%7C%20Scalable%20Systems&descSize=16&descAlignY=60"
-    alt="Shoaib Akhter Premium GitHub Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,40:0f172a,75:1e3a8a,100:d97706&text=Shoaib%20Akhter&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20JavaScript%20Developer%20%7C%20MERN%20%2B%20Next.js%20%7C%20Scalable%20Web%20Applications&descSize=16&descAlignY=58"
+    alt="Shoaib Akhter GitHub Banner"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&vCenter=true&width=920&height=60&color=D97706&lines=Building+Modern+Full+Stack+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Premium+UI+%2B+Clean+Backend+Architecture;Dashboards+%7C+Authentication+%7C+Business+Web+Apps"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&vCenter=true&width=920&height=60&color=D97706&lines=Building+Modern+Full+Stack+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Clean+Frontend+%2B+Scalable+Backend+Architecture;Dashboards+%7C+Authentication+%7C+Business+Web+Apps"
     alt="Typing Animation"
   />
 </p>
@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=saofficial344-dev&label=Profile%20Views&color=d97706&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-020617?style=for-the-badge&logo=github&logoColor=d97706" alt="Role" />
   <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-1e3a8a?style=for-the-badge&logo=react&logoColor=white" alt="Stack" />
-  <img src="https://img.shields.io/badge/Available-Freelance%20Projects-d97706?style=for-the-badge&logo=upwork&logoColor=020617" alt="Freelance Available" />
+  <img src="https://img.shields.io/badge/Open%20To-Freelance%20Projects-d97706?style=for-the-badge&logo=upwork&logoColor=020617" alt="Freelance Available" />
 </p>
 
 <br />
@@ -28,13 +28,13 @@
     <td width="62%" valign="top">
       <h2>👋 About Me</h2>
       <p>
-        I’m <strong>Shoaib Akhter</strong>, a <strong>Full Stack MERN Developer</strong>
+        I’m <strong>Shoaib Akhter</strong>, a <strong>Full Stack JavaScript Developer</strong>
         focused on building modern, scalable, secure, and business-ready web applications.
       </p>
       <p>
-        I specialize in creating premium frontend interfaces, clean backend APIs,
-        authentication systems, admin dashboards, and full-stack digital products
-        that are responsive, maintainable, and user-focused.
+        I work with React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL,
+        Prisma, REST APIs, authentication systems, admin dashboards, and full-stack
+        business applications.
       </p>
       <p>
         My goal is simple: build web applications that look professional,
@@ -44,13 +44,13 @@
     <td width="38%" valign="top">
       <h2>⚡ Core Strengths</h2>
       <ul>
-        <li>Full Stack MERN Development</li>
+        <li>Full Stack Web Development</li>
         <li>React & Next.js Applications</li>
         <li>REST API Development</li>
         <li>JWT Authentication Systems</li>
         <li>Admin Dashboards</li>
         <li>Database Design</li>
-        <li>Premium UI Development</li>
+        <li>Responsive UI Development</li>
       </ul>
     </td>
   </tr>
@@ -65,15 +65,15 @@
     <td width="50%" valign="top">
       <h3>🌐 Modern Frontend Interfaces</h3>
       <p>
-        Responsive and premium user interfaces using React, Next.js,
-        Tailwind CSS, Framer Motion, and clean component architecture.
+        Responsive and clean user interfaces using React, Next.js,
+        Tailwind CSS, Framer Motion, and reusable component architecture.
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Backend APIs & Systems</h3>
       <p>
-        Secure backend systems using Node.js, Express.js, MongoDB,
-        PostgreSQL, MySQL, REST APIs, and authentication flows.
+        Secure backend systems using Node.js, Express.js, PostgreSQL,
+        MongoDB, Prisma, REST APIs, and authentication flows.
       </p>
     </td>
   </tr>
@@ -97,17 +97,17 @@
 
 ---
 
-## 🛠️ Premium Tech Stack
+## 🛠️ Tech Stack
 
 <table>
   <tr>
     <td width="25%" align="center">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,framer&perline=3" alt="Frontend Skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=4" alt="Frontend Skills" />
     </td>
     <td width="25%" align="center">
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&perline=3" alt="Backend Skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma&perline=4" alt="Backend Skills" />
     </td>
     <td width="25%" align="center">
       <h3>Database</h3>
@@ -115,7 +115,7 @@
     </td>
     <td width="25%" align="center">
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,firebase,figma,docker,npm&perline=3" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,firebase,docker,npm&perline=4" alt="Tools" />
     </td>
   </tr>
 </table>
@@ -129,7 +129,7 @@
     <td width="50%" valign="top">
       <h3>🎟️ Event Booking Platform</h3>
       <p>
-        A full-stack booking system built for managing events, users,
+        A full-stack booking system for managing events, users,
         approvals, seat tracking, and admin operations.
       </p>
       <p><strong>Highlights:</strong></p>
@@ -177,9 +177,9 @@
       <p><strong>Stack:</strong> React, Node.js, Express.js, MongoDB</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 Premium Admin Dashboard</h3>
+      <h3>📈 Admin Dashboard UI</h3>
       <p>
-        A clean and modern dashboard UI focused on data presentation,
+        A modern dashboard UI focused on data presentation,
         reusable components, cards, tables, and responsive layouts.
       </p>
       <p><strong>Highlights:</strong></p>
@@ -242,11 +242,11 @@
 
 ---
 
-## 🏅 Achievements
+## 🏅 GitHub Achievements
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=saofficial344-dev&theme=onestar&no-frame=true&no-bg=true&margin-w=14&margin-h=14&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=saofficial344-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
     alt="GitHub Trophies"
   />
 </p>
@@ -264,19 +264,16 @@
     <img src="https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=020617" alt="Email" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <!-- Replace this with your real LinkedIn URL -->
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=D97706" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Clean Code • Scalable Systems • Premium UI • Real Business Value</strong>
+  <strong>Clean Code • Scalable Systems • Modern UI • Real Business Value</strong>
 </p>
 
 <p align="center">
